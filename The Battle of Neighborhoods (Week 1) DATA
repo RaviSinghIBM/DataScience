@@ -1,0 +1,7 @@
+Data
+Data where you describe the data that will be used to solve the problem and the source of the data.
+
+According to the question, following data are required.
+
+1. Geographic coordinate of Hong Kong cinemas
+I need to compare 5 possible locations with current cinemas in Hong Kong. Therefore, I need to find a list of Hong Kong cinema and cinemas' geographic coordinates. Luckily, I can find the list and coordinates from the website https://hkmovie6.com/cinema .
